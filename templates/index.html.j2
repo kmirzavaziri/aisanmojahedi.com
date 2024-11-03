@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aisan Mojahedi</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Tenor+Sans&display=swap" rel="stylesheet">
+
+    <link href="assets/style.css" rel="stylesheet">
+</head>
+<body>
+
+{######################################################################################################################}
+{# Header #}
+{######################################################################################################################}
+<div id="header">
+    <div id="title-wrapper">
+        <h1 id="title" class="neon neon-hov">{{ web.title | upper }}</h1>
+        <br>
+        <br>
+        <div id="subtitle-wrapper" class="neon">
+            <span id="subtitle"></span><span class="cursor">_</span>
+        </div>
+    </div>
+</div>
+
+{######################################################################################################################}
+{# About Me #}
+{######################################################################################################################}
+<div class="section-wrapper">
+    <div class="section-l va-c">
+        <h2>About Me</h2>
+        <div class="features">
+            {% set i = 0 %}
+            {% set rs = 3 %}
+            {% set ars = 2 %}
+            {% for r in range (0, 2 * (web.features | length // (rs + ars)) + 1) %}
+                <div class="feature-row">
+                    {% set row_size = ars if r % 2 else rs %}
+                    {% set start = (r // 2 + r % 2) * rs + (r // 2) * ars %}
+                    {% for feature in web.features[start:start + row_size] %}
+                        <div class="feature-item">
+                            {{ feature }}
+                        </div>
+                    {% endfor %}
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+    <div class="section-l-comp va-c">
+        <img class="section-img" src="assets/img/ais-c.jpg">
+    </div>
+</div>
+
+
+{######################################################################################################################}
+{# Core Experiences #}
+{######################################################################################################################}
+<div class="section-wrapper" style="background-image: url('assets/img/beans.jpg');">
+    <h2 class="section-title">Core Experiences</h2>
+</div>
+
+<div class="section-wrapper">
+    <div class="section-row">
+        <div class="section-l va-c">
+            <h2>{{ web.core_experiences[0].title }}</h2>
+            <h3>{{ web.core_experiences[0].subtitle }}</h3>
+            <p>{{ web.core_experiences[0].description }}</p>
+        </div>
+        <div class="section-l-comp va-c">
+            <img class="section-img frame" src="{{ web.core_experiences[0].img }}">
+        </div>
+    </div>
+    <div class="section-row">
+        <div class="section-r-comp va-c">
+            <img class="section-img frame" src="{{ web.core_experiences[1].img }}">
+        </div>
+        <div class="section-r va-c">
+            <h2>{{ web.core_experiences[1].title }}</h2>
+            <h3>{{ web.core_experiences[1].subtitle }}</h3>
+            <p>{{ web.core_experiences[1].description }}</p>
+        </div>
+    </div>
+    <div class="section-row">
+        <div class="section-l va-c">
+            <h2>{{ web.core_experiences[2].title }}</h2>
+            <h3>{{ web.core_experiences[2].subtitle }}</h3>
+            <p>{{ web.core_experiences[2].description }}</p>
+        </div>
+        <div class="section-l-comp va-c">
+            <img class="section-img frame" src="{{ web.core_experiences[2].img }}">
+        </div>
+    </div>
+</div>
+
+{######################################################################################################################}
+{# Motto #}
+{######################################################################################################################}
+<div class="section-wrapper" style="background-image: url('assets/img/phone.jpg');">
+    <div class="section-r-comp va-t">
+    </div>
+    <div class="section-r va-t">
+        <h2>{{ web.motto.title }}</h2>
+        <p>{{ web.motto.description }}</p>
+        <p class="ta-r">{{ web.motto.author }}</p>
+    </div>
+</div>
+
+{######################################################################################################################}
+{# Vibes #}
+{######################################################################################################################}
+
+{######################################################################################################################}
+{# My Resume #}
+{######################################################################################################################}
+<div class="two-col-l">
+    <h2>My Resume</h2>
+</div>
+
+<div class="two-col-r">
+    <div class="ipad-wrapper">
+        <img class="ipad-img" src="assets/img/ipad.png">
+        <embed class="ipad-content" src="assets/pdf/Aisan_Mojahedi_CV.pdf" type="application/pdf">
+    </div>
+</div>
+
+{######################################################################################################################}
+{# Learning #}
+{######################################################################################################################}
+
+
+{######################################################################################################################}
+{# Footer #}
+{######################################################################################################################}
+{# TODO #}
+
+
+<script>
+    const main = {
+        initScroll: (id, opacityMin, opacityMax) => {
+            window.addEventListener('scroll', function () {
+                const header = document.getElementById(id);
+                const headerHeight = header.offsetHeight;
+                const scrollTop = window.scrollY;
+                const opacity = Math.max(opacityMin, opacityMax - (scrollTop / headerHeight) * opacityMax);
+
+                header.style.boxShadow = `inset 0 0 0 2000px rgba(0, 0, 0, ${opacity})`;
+            });
+        },
+        initCursor: (id, pause, writeTypingSpeed, deleteTypingSpeed, texts) => {
+            let currentTextIndex = 0;
+            const textElement = document.getElementById(id);
+            let isDeleting = false;
+            let charIndex = 0;
+
+            function type() {
+                const currentText = texts[currentTextIndex];
+
+                if (isDeleting) {
+                    textElement.textContent = currentText.substring(0, charIndex--);
+                    if (charIndex < 0) {
+                        isDeleting = false;
+                        currentTextIndex = (currentTextIndex + 1) % texts.length;
+                        charIndex = 0;
+                    }
+                } else {
+                    textElement.textContent = currentText.substring(0, charIndex++);
+                    if (charIndex === currentText.length + 1) {
+                        isDeleting = true;
+                        setTimeout(type, pause);
+                        return;
+                    }
+                }
+
+                setTimeout(type, isDeleting ? deleteTypingSpeed : writeTypingSpeed);
+            }
+
+            type();
+        },
+    }
+
+    main.initScroll('header', 0.4, 0.8)
+    main.initCursor('subtitle', 3000, 100, 50, {{ web.subtitles|tojson|safe }})
+</script>
+</body>
+</html>

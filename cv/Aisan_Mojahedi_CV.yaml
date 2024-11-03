@@ -1,0 +1,117 @@
+cv:
+  name: Aisan Mojahedi
+  location: Dubai, UAE
+  email: aisanmojahedi@gmail.com
+  phone: tel:+971-54-494-9297
+  website: https://aisanmojahedi.com/
+  social_networks:
+    - network: LinkedIn
+      username: aisan_mojahedi
+  sections:
+    summary:
+      - |
+        Certified Product Manager with 5+ years of experience in defining OKRs, product design, 
+        and leading diverse teams in fintech and e-commerce domain large organizations and startups, 
+        including co-founding a venture, provides unique insights into diverse environments. Agile Practitioner focused on optimizing
+        workflows and improving product delivery, driving notable gains in user engagement and reporting efficiency. Proficient in data analysis, 
+        and UI/UX to make DD decisions for timely, high-quality delivery.
+    skills:
+      - |
+        **PM.** Business Model Design · Jira · Atlassian · Mentoring · Negotiating · 
+        Agile · Scrum · Kanban ·Strategic Planning · Solution Providing · A/B testing · Prototyping ·
+        Wireframing · Data Analysis · Data-Driven Decision Making · Market Research
+      - |
+        **Tech.** Git · SQL · Linux · Python · UI/UX · Google Analytics · XP · CI/CD Practices · Blockchain ·
+        AI/ML · Data Mining
+    experiences:
+      - position: Asa - Stock brokerage, 5+ million active users
+        company: Product Manager
+        start_date: 2023-08
+        end_date: 2024-07
+        highlights:
+          - "Led 30+ developers across 5 teams: Data Analysis, SQL, No-SQL, DB Monitoring, and BI."
+          - Improved OKR results by 33% through BI and DB team optimization.
+          - Addressed performance challenges using Eazy BI dashboards, leading to 66% cut in reporting time.
+          - Simplified workflows by integrating automation rules, decreasing manual workload by 20%.
+      - position: Digikala - Largest e-commerce in MENA, 41+ million active users
+        company: Product Manager
+        start_date: 2022-09
+        end_date: 2023-08
+        highlights:
+          - Managed 15+ developers across finance, payment marketing website, and BI teams, ensuring cash flow integrity.
+          - Automated report delivery with BI workflow automation, cutting report generation time by 30%.
+          - Improved agile processes through JIRA optimization, boosting OKR outcomes by 40%.
+          - Ensured product requirements met on time, using refinements on the backlog leading to maturity level ups.
+      - position: Bitex - Online Crypto Exchange Platform
+        company: Product Manager
+        start_date: 2022-07
+        end_date: 2022-09
+        highlights:
+          - Led Agile ceremonies and collaborated with cross-functional teams to plan and execute AI products.
+          - Enhanced user satisfaction by 30% via collaboration with stakeholders and advanced customer journey mapping.
+          - Increased team efficiency by 20% using BigPicture in JIRA within 3 months.
+      - position: in-House - US-based startup similar to Glassdoor
+        company: Associate Product Manager
+        start_date: 2021-08
+        end_date: 2022-07
+        highlights:
+          - Ensured consistency to design guidelines with a unified design system, accelerating development speed by 30%.
+          - Boosted user engagement by 25% through optimized wireframes and A/B-tested prototypes.
+      - position: Avistopia - EdTech startup
+        company: Co Founder
+        start_date: 2019-06
+        end_date: 2021-08
+        highlights:
+          - Accelerated MVP release by 2 months by adopting Scrum and Agile mindset, leading to an earlier go-live.
+          - Designed Avistopia's website with 3.5K+ users and \$50K+ in annual revenue, through learning and doing different areas such as coding, product design and management.
+    education:
+      - institution: Shahid Beheshti University
+        area: Computer Science
+        degree: M. Sc.
+        start_date: 2022-09
+        end_date: 2024-09
+      - institution: University of Tehran
+        area: Mathematics
+        degree: B. Sc.
+        start_date: 2017-09
+        end_date: 2022-02
+    certification:
+      - |
+        [**PSM,** *Scrum.org*](https://www.credly.com/badges/f3411a9f-7714-4754-8edc-bb1a701e0572) ‌ ‌ ‌ · ‌ ‌ ‌
+        [**Product Analytics,** *Pendo.io*](https://www.credly.com/badges/efbcd557-8868-48b2-8c95-84132e34520e) ‌ ‌ ‌ · ‌ ‌ ‌
+        [**SQL,** *Datacamp*](https://www.datacamp.com/completed/statement-of-accomplishment/course/cb1e205a30bbfdf7aad6f862f95578baae275c4e) ‌ ‌ ‌ · ‌ ‌ ‌
+        [**Product Strategy,** *Product School*](https://productschool.teachable.com/courses/2136086/certificate)
+design:
+  theme: classic
+  disable_last_updated_date: true
+  page_size: a4paper
+  font_size: 10pt
+  header_font_size: "20 pt"
+  text_alignment: justified
+  disable_page_numbering: true
+  margins:
+    page:
+      bottom: 1.5cm
+      left: 1.5cm
+      right: 1.5cm
+      top: 1.5cm
+    section_title:
+      bottom: 0.3 cm
+      top: 0.3 cm
+
+
+
+locale_catalog:
+  abbreviations_for_months: # translation of the month abbreviations
+    - Jan
+    - Feb
+    - Mar
+    - Apr
+    - May
+    - Jun
+    - Jul
+    - Aug
+    - Sep
+    - Oct
+    - Nov
+    - Dec
