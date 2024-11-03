@@ -13,6 +13,7 @@
 }
     \textbf{<<entry.company>>}, <<entry.position>>
 \end{twocolentry}
+\vspace {0.3 cm}
 \begin{onecolentry}
     ((* for item in entry.highlights *))
         ((* if loop.first *))
@@ -24,6 +25,7 @@
         ((* endif *))
     ((* endfor *))
 \end{onecolentry}
+\vspace {0.2 cm}
 ((* else *))
 \begin{onecolentry}
     \textbf{<<entry.company>>}, <<entry.position>>
