@@ -1,0 +1,101 @@
+cv:
+  name: Aisan Mojahedi
+  location: Business Bay, Dubai, UAE
+  email: aisanmojahedi@gmail.com
+  phone: tel:+971-54-494-9297
+  website: https://aisanmojahedi.com/
+  social_networks:
+    - network: LinkedIn
+      username: aisan-mojahedi
+  sections:
+    summary:
+      - |
+        Dynamic Product Manager with over 5 years of experience in defining OKRs, product design, and leading
+        cross-functional teams across fintech and e-commerce industries. Experience in large-scale organizations and
+        dynamic startups, including co-founding a venture, provides valuable insights into both environments. Certified
+        Agile Practitioner with a proven track record in optimizing workflows and enhancing product delivery, achieving
+        significant improvements in user engagement and reporting efficiency. Proficient in data analysis, Python, SQL,
+        and UI/UX design to make informed, data-driven decisions. Skilled at collaborating with stakeholders to improve
+        product design and ensure timely delivery while committed to continuous learning and upgrading technical skills
+        for innovative solutions.
+    skills:
+      - |
+        **PM.** Business Model Design · Jira · Confluence · Coaching · Negotiating · 
+        Agile · Scrum · Kanban ·Strategic Planning · Solution Providing · A/B testing · Prototyping ·
+        Wireframing · Data Analysis · Data-Driven Decision Making · Market Research
+      - |
+        **Tech.** Git · SQL · Linux · Python · UI/UX · Google Analytics · XP · CI/CD Practices · Blockchain ·
+        AI/ML · Data Mining
+    experience:
+      - position: Asa - Stock brokerage, 5+ million active users
+        company: Product Manager
+        start_date: 2023-08
+        end_date: 2024-07
+        highlights:
+          - "Led 30+ developers across 5 teams: Data Analysis, SQL, No-SQL, DB Monitoring, and BI."
+          - Improved OKR results by 33% through BI and DB team optimization.
+          - Addressed performance challenges using Eazy BI dashboards, leading to 66% cut in reporting time.
+          - Simplified workflows by integrating automation rules, decreasing manual workload by 20%.
+      - position: Digikala - Largest e-commerce in MENA, 41+ million active users
+        company: Product Manager
+        start_date: 2022-09
+        end_date: 2023-08
+        highlights:
+          - Managed 15+ developers across finance, payment marketing website, and BI teams, ensuring cash flow integrity.
+          - Automated report delivery with BI workflow automation, cutting report generation time by 30%.
+          - Improved agile processes through JIRA and Confluence optimization, boosting OKR outcomes by 40%.
+          - Enabled data-driven board decisions through agile health reports.
+          - Ensured product requirements met on time, using refinements on the backlog leading to maturity level ups.
+      - position: Bitex - Online Crypto Exchange Platform
+        company: Product Manager
+        start_date: 2022-07
+        end_date: 2022-09
+        highlights:
+          - Led Agile ceremonies and collaborated with cross-functional teams to plan and execute AI products.
+          - Enhanced user satisfaction by 30% via collaboration with stakeholders and advanced customer journey mapping.
+          - Increased team efficiency by 20% using BigPicture in JIRA.
+      - position: in-House - US-based startup similar to Glassdoor
+        company: Associate Product Manager
+        start_date: 2021-08
+        end_date: 2022-07
+        highlights:
+          - Ensured consistency to design guidelines with a unified design system, accelerating development speed by 30%.
+          - Boosted user engagement by 25% through optimized wireframes and A/B-tested prototypes.
+      - position: Avistopia - EdTech startup, 3.5K+ users, \$50K+ annual revenue
+        company: Co-Founder & PM
+        start_date: 2019-06
+        end_date: 2021-08
+        highlights:
+          - Accelerated MVP release by 2 months by adopting Scrum and Agile mindset, leading to an earlier go-live.
+    education:
+    - institution: Shahid Beheshti University
+      area: Computer Science
+      degree: M. Sc.
+      start_date: 2022-09
+      end_date: 2024-09
+    - institution: University of Tehran
+      area: Mathematics
+      degree: B. Sc.
+      start_date: 2017-09
+      end_date: 2022-02
+    certificates:
+#      - |
+      - "[**PSM,** *Scrum.org*](https://www.credly.com/badges/f3411a9f-7714-4754-8edc-bb1a701e0572)"
+      - "[**Product Analytics,** *Pendo.io*](https://www.credly.com/badges/efbcd557-8868-48b2-8c95-84132e34520e)"
+      - "[**SQL,** *Datacamp*](https://www.datacamp.com/completed/statement-of-accomplishment/course/cb1e205a30bbfdf7aad6f862f95578baae275c4e)"
+      - "[**Scrum: Advanced,** *Project Management Institute*](https://www.linkedin.com/learning/certificates/61f5a90ed7058a22cb5e9c2e1d36a31ef6b61fc7b99d5bae8670da7f8a712b5f)"
+      - "[**Foundation of Project Management,** *Google*](https://www.coursera.org/account/accomplishments/certificate/5D3SNJL2YMVS)"
+
+design:
+  theme: classic
+  page_size: a4paper
+  font_size: 10pt
+  header_font_size: "20 pt"
+  text_alignment: justified
+  disable_page_numbering: true
+  margins:
+    page:
+      bottom: 1.5cm
+      left: 1.5cm
+      right: 1.5cm
+      top: 1.5cm
