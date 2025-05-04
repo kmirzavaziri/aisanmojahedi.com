@@ -1,5 +1,5 @@
 # values: default, tabby_strategy_intern
-TAILOR = default
+TAILOR = tabby_strategy_intern
 
 .PHONY: cv
 cv:

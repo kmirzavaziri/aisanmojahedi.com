@@ -1,0 +1,101 @@
+cv:
+  name: Aisan Mojahedi
+  location: Dubai, UAE
+  email: aisanmojahedi@gmail.com
+  phone: tel:+971-54-494-9297
+  website: https://aisanmojahedi.com/
+  social_networks:
+    - network: LinkedIn
+      username: aisan_mojahedi
+  sections:
+    summary:
+      - |
+        Certified Product Manager with experience in fintech and e-commerce, specializing in data analysis, risk management, and strategic planning. Skilled in defining OKRs and leading diverse teams to drive data-driven decisions, optimizing workflows, and enhancing product delivery in fast-paced environments. Proficient in SQL, Python, and data analysis tools, with a strong focus on mitigating risks and achieving business objectives through agile methodologies like Scrum and Kanban.
+    skills:
+      - |
+        Data Analysis · SQL · Python · Risk Management · Financial Analysis · Agile Methodologies · Scrum · Kanban · Data-Driven Decision Making · Market Research · A/B Testing · Google Analytics
+    experiences:
+      - position: Product Manager
+        company: Asa - Stock brokerage, 5+ million active users
+        start_date: 2023
+        end_date: 2024
+        highlights:
+          - "Led 30+ developers across 5 teams: Data Analysis, SQL, No-SQL, DB Monitoring, and BI."
+          - "Oversaw data analysis and BI teams, providing critical insights for risk assessment and decision-making processes."
+          - "Improved OKR results by 33% through BI and DB team optimization."
+          - "Addressed performance challenges using Eazy BI dashboards, leading to a 66% reduction in reporting time."
+          - "Simplified workflows by integrating automation rules, decreasing manual workload by 20%."
+      - position: Product Manager
+        company: Digikala - Largest e-commerce in MENA, 41+ million active users
+        start_date: 2022
+        end_date: 2023
+        highlights:
+          - "Managed 15+ developers across finance, payment marketing website, and BI teams, ensuring cash flow integrity and accurate financial reporting."
+          - "Automated report delivery with BI workflow automation, cutting report generation time by 30%."
+          - "Improved agile processes through JIRA optimization, boosting OKR outcomes by 40%."
+          - "Ensured product requirements were met on time, leading to maturity level improvements."
+      - position: Product Manager
+        company: Bitex - Online Crypto Exchange Platform
+        start_date: 2022
+        end_date: 2022
+        highlights:
+          - "Led Agile ceremonies and collaborated with cross-functional teams to plan and execute AI products."
+          - "Enhanced user satisfaction by 30% through advanced customer journey mapping and data analysis."
+          - "Increased team efficiency by 20% using BigPicture in JIRA within 3 months."
+      - position: Associate Product Manager
+        company: in-House - US-based startup similar to Glassdoor
+        start_date: 2021
+        end_date: 2022
+        highlights:
+          - "Ensured consistency to design guidelines with a unified design system, accelerating development speed by 30%."
+          - "Boosted user engagement by 25% through optimized wireframes and A/B-tested prototypes, using data analysis to inform design decisions."
+      - position: Avistopia - EdTech startup
+        company: Co Founder
+        start_date: 2019
+        end_date: 2021
+        highlights:
+          - "Designed the website and managed product development, leading to 3.5K+ users and $50K+ in annual revenue."
+          - "Accelerated MVP release by 2 months by adopting Scrum and Agile methodologies."
+    education:
+      - institution: Shahid Beheshti University
+        area: Computer Science
+        degree: M. Sc.
+        start_date: 2022
+        end_date: 2024
+      - institution: University of Tehran
+        area: Mathematics
+        degree: B. Sc.
+        start_date: 2017
+        end_date: 2022
+    certification:
+      - |
+        [**PSM,** *Scrum.org*](https://www.credly.com/badges/f3411a9f-7714-4754-8edc-bb1a701e0572) ‌ ‌ ‌ · ‌ ‌ ‌
+        [**Product Analytics,** *Pendo.io*](https://www.credly.com/badges/efbcd557-8868-48b2-8c95-84132e34520e) ‌ ‌ ‌ · ‌ ‌ ‌
+        [**SQL,** *Datacamp*](https://www.datacamp.com/completed/statement-of-accomplishment/course/cb1e205a30bbfdf7aad6f862f95578baae275c4e) ‌ ‌ ‌ · ‌ ‌ ‌
+        [**Product Strategy,** *Product School*](https://productschool.teachable.com/courses/2136086/certificate)
+
+design:
+  theme: classic
+  page:
+    show_page_numbering: false
+    show_last_updated_date: false
+    size: a4
+    bottom_margin: 1.5cm
+    left_margin: 1cm
+    right_margin: 1cm
+    top_margin: 1.5cm
+  text:
+    font_size: 10pt
+    alignment: justified
+    leading: 10pt
+  header:
+    name_font_size: 20pt
+  section_titles:
+    vertical_space_above: 0.7cm
+    vertical_space_below: 0.5cm
+  entries:
+    vertical_space_between_entries: 0.5cm
+
+  highlights:
+    top_margin: 0.3cm
+    vertical_space_between_highlights: 0.3cm
