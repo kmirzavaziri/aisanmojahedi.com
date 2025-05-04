@@ -1,16 +1,23 @@
+import sys
+
 import yaml
 
 import jinja2
 
 
 def main():
+    if len(sys.argv) != 5:
+        raise Exception('pass exactly these parameters: cv_data web_data template output')
+
+    cv_data, web_data, template, output = sys.argv[1:]
+
     env = jinja2.Environment(loader=jinja2.FileSystemLoader(searchpath="."))
 
-    with open("cv/Aisan_Mojahedi_CV.yaml", "r") as f:
-        web_yaml = render_j2_by_yaml(env, "web.yaml", f)
+    with open(cv_data, 'r') as f:
+        web_yaml = render_j2_by_yaml(env, web_data, f)
 
-    with open("public/index.html", "w") as f:
-        f.write(render_j2_by_yaml(env, "templates/index.html.j2", web_yaml))
+    with open(output, 'w') as f:
+        f.write(render_j2_by_yaml(env, template, web_yaml))
 
 
 def render_j2_by_yaml(env, template_filename, yaml_stream):

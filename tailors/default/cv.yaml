@@ -81,37 +81,29 @@ cv:
         [**Product Analytics,** *Pendo.io*](https://www.credly.com/badges/efbcd557-8868-48b2-8c95-84132e34520e) ‌ ‌ ‌ · ‌ ‌ ‌
         [**SQL,** *Datacamp*](https://www.datacamp.com/completed/statement-of-accomplishment/course/cb1e205a30bbfdf7aad6f862f95578baae275c4e) ‌ ‌ ‌ · ‌ ‌ ‌
         [**Product Strategy,** *Product School*](https://productschool.teachable.com/courses/2136086/certificate)
+
 design:
   theme: classic
-  disable_last_updated_date: true
-  page_size: a4paper
-  font_size: 10pt
-  header_font_size: "20 pt"
-  text_alignment: justified
-  disable_page_numbering: true
-  margins:
-    page:
-      bottom: 1.5cm
-      left: 1.5cm
-      right: 1.5cm
-      top: 1.5cm
-    section_title:
-      bottom: 0.3 cm
-      top: 0.3 cm
+  page:
+    show_page_numbering: false
+    show_last_updated_date: false
+    size: a4
+    bottom_margin: 1.5cm
+    left_margin: 1cm
+    right_margin: 1cm
+    top_margin: 1.5cm
+  text:
+    font_size: 10pt
+    alignment: justified
+    leading: 10pt
+  header:
+    name_font_size: 20pt
+  section_titles:
+    vertical_space_above: 0.7cm
+    vertical_space_below: 0.5cm
+  entries:
+    vertical_space_between_entries: 0.5cm
 
-
-
-locale_catalog:
-  abbreviations_for_months: # translation of the month abbreviations
-    - Jan
-    - Feb
-    - Mar
-    - Apr
-    - May
-    - Jun
-    - Jul
-    - Aug
-    - Sep
-    - Oct
-    - Nov
-    - Dec
+  highlights:
+    top_margin: 0.3cm
+    vertical_space_between_highlights: 0.3cm

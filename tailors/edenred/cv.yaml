@@ -1,0 +1,101 @@
+cv:
+  name: Aisan Mojahedi
+  location: Dubai, UAE
+  email: aisanmojahedi@gmail.com
+  phone: tel:+971-54-494-9297
+  #  website: https://aisanmojahedi.com/
+  social_networks:
+    - network: LinkedIn
+      username: aisan_mojahedi
+  sections:
+    summary:
+      - |
+        With a math-powered knack for data and a passion for making fintech more accessible, I’m transitioning into
+        product management as a Certified Scrum Master, bringing fresh insights from fintech and e-commerce. My
+        experience spans agile startups and structured enterprises, shaping my adaptable, collaborative approach. Eager
+        to master product discovery and design thinking, I thrive on turning challenges into opportunities for
+        innovation.
+    skills:
+      - |
+        **Product & Analytical.** Data Analysis · Data-Driven Decision Making · A/B Testing · Prototyping · 
+        Wireframing · UI/UX · Market Research · Problem-Solving · Agile · Scrum · Jira · Design Thinking
+      - |
+        **Technical.** SQL · Python · Google Analytics · Git · Linux · AI/ML Basics
+    experiences:
+      - position: Asa - Stock brokerage, 5+ million active users
+        company: Product Contributor
+        start_date: 2023
+        end_date: 2024
+        highlights:
+          - Collaborated with data teams to tackle performance issues, cutting reporting time by 66% with Eazy BI.
+          - Supported workflow improvements by adding automation rules, reducing manual tasks by 20%.
+          - Used data analysis to help improve team OKRs by 33%, learning the impact of BI tools firsthand.
+      - position: Digikala - Largest e-commerce in MENA, 41+ million users
+        company: Product Contributor
+        start_date: 2022
+        end_date: 2023
+        highlights:
+          - Worked with finance and BI teams to automate report delivery, shaving 30% off generation time.
+          - Helped refine agile processes in JIRA, contributing to a 40% boost in OKR results.
+          - Partnered with teams to clarify PRDs, ensuring timely delivery through backlog refinements.
+
+      - position: in-House - US-based startup similar to Glassdoor
+        company: Product Designer
+        start_date: 2021
+        end_date: 2022
+        highlights:
+          - Helped create a unified design system, speeding up development by 30% through consistent guidelines.
+          - Improved user engagement by 25% by testing wireframes and prototypes with A/B methods.
+      - position: Avistopia - EdTech startup
+        company: Product Designer
+        start_date: 2019
+        end_date: 2021
+        highlights:
+          - Contributed to an MVP launch 2 months early by embracing Scrum and agile practices.
+          - Designed a website for 3.5K+ users, generating $50K+ yearly, while exploring product workflows.
+    education:
+      - institution: Shahid Beheshti University
+        area: Computer Science
+        degree: M. Sc.
+        start_date: 2022
+        end_date: 2024
+      - institution: University of Tehran
+        area: Mathematics
+        degree: B. Sc.
+        start_date: 2017
+        end_date: 2022
+    certification:
+      - |
+        [**PSM,** *Scrum.org*](https://www.credly.com/badges/f3411a9f-7714-4754-8edc-bb1a701e0572) ‌ ‌ ‌ · ‌ ‌ ‌
+        [**Product Strategy,** *Product School*](https://productschool.teachable.com/courses/2136086/certificate) ‌ ‌ ‌ · ‌ ‌ ‌
+        [**Product Analytics,** *Pendo.io*](https://www.credly.com/badges/efbcd557-8868-48b2-8c95-84132e34520e) ‌ ‌ ‌ · ‌ ‌ ‌
+      - |
+        [**SQL,** *Datacamp*](https://www.datacamp.com/completed/statement-of-accomplishment/course/cb1e205a30bbfdf7aad6f862f95578baae275c4e) ‌ ‌ ‌ · ‌ ‌ ‌
+        [**Design Thinking,** *IBM*](https://www.credly.com/badges/75905e20-0122-4889-8116-fc16fcf314d5/public_url) ‌ ‌ ‌ · ‌ ‌ ‌
+        [**Scrum: Advanced,** *PMI*](https://www.linkedin.com/learning/certificates/61f5a90ed7058a22cb5e9c2e1d36a31ef6b61fc7b99d5bae8670da7f8a712b5f)
+
+design:
+  theme: classic
+  page:
+    show_page_numbering: false
+    show_last_updated_date: false
+    size: a4
+    bottom_margin: 1.5cm
+    left_margin: 1cm
+    right_margin: 1cm
+    top_margin: 1.5cm
+  text:
+    font_size: 10pt
+    alignment: justified
+    leading: 10pt
+  header:
+    name_font_size: 20pt
+  section_titles:
+    vertical_space_above: 0.7cm
+    vertical_space_below: 0.5cm
+  entries:
+    vertical_space_between_entries: 0.5cm
+
+  highlights:
+    top_margin: 0.3cm
+    vertical_space_between_highlights: 0.3cm

@@ -13,12 +13,12 @@
 </head>
 <body>
 
-{######################################################################################################################}
-{# Header #}
-{######################################################################################################################}
+
+
+
 <div id="header">
     <div id="title-wrapper">
-        <h1 id="title" class="neon neon-hov">{{ web.title | upper }}</h1>
+        <h1 id="title" class="neon neon-hov">AISAN MOJAHEDI</h1>
         <br>
         <br>
         <div id="subtitle-wrapper" class="neon">
@@ -27,27 +27,119 @@
     </div>
 </div>
 
-{######################################################################################################################}
-{# About Me #}
-{######################################################################################################################}
+
+
+
 <div class="section-wrapper">
     <div class="section-l va-c">
         <h2>About Me</h2>
         <div class="features">
-            {% set i = 0 %}
-            {% set rs = 3 %}
-            {% set ars = 2 %}
-            {% for r in range (0, 2 * (web.features | length // (rs + ars)) + 1) %}
+            
+            
+            
+            
                 <div class="feature-row">
-                    {% set row_size = ars if r % 2 else rs %}
-                    {% set start = (r // 2 + r % 2) * rs + (r // 2) * ars %}
-                    {% for feature in web.features[start:start + row_size] %}
+                    
+                    
+                    
                         <div class="feature-item">
-                            {{ feature }}
+                            Product Manager
                         </div>
-                    {% endfor %}
+                    
+                        <div class="feature-item">
+                            UI/UX designer
+                        </div>
+                    
+                        <div class="feature-item">
+                            Certified Scrum Master
+                        </div>
+                    
                 </div>
-            {% endfor %}
+            
+                <div class="feature-row">
+                    
+                    
+                    
+                        <div class="feature-item">
+                            Studied Applied Mathematics & Computer Science
+                        </div>
+                    
+                        <div class="feature-item">
+                            Communicator
+                        </div>
+                    
+                </div>
+            
+                <div class="feature-row">
+                    
+                    
+                    
+                        <div class="feature-item">
+                            Resident in Dubai
+                        </div>
+                    
+                        <div class="feature-item">
+                            Data-Driven Decision Maker
+                        </div>
+                    
+                        <div class="feature-item">
+                            Agile Project Manager
+                        </div>
+                    
+                </div>
+            
+                <div class="feature-row">
+                    
+                    
+                    
+                        <div class="feature-item">
+                            Market Researcher
+                        </div>
+                    
+                        <div class="feature-item">
+                            Fluent in Turkish, Persian & English
+                        </div>
+                    
+                </div>
+            
+                <div class="feature-row">
+                    
+                    
+                    
+                        <div class="feature-item">
+                            Result-Oriented
+                        </div>
+                    
+                        <div class="feature-item">
+                            Coffee Lover
+                        </div>
+                    
+                        <div class="feature-item">
+                            Visionary Leader
+                        </div>
+                    
+                </div>
+            
+                <div class="feature-row">
+                    
+                    
+                    
+                        <div class="feature-item">
+                            Problem Solver
+                        </div>
+                    
+                        <div class="feature-item">
+                            Logical thinker
+                        </div>
+                    
+                </div>
+            
+                <div class="feature-row">
+                    
+                    
+                    
+                </div>
+            
         </div>
     </div>
     <div class="section-l-comp va-c">
@@ -56,9 +148,9 @@
 </div>
 
 
-{######################################################################################################################}
-{# Core Experiences #}
-{######################################################################################################################}
+
+
+
 <div class="section-wrapper" style="background-image: url('assets/img/beans.jpg');">
     <h2 class="section-title">Core Experiences</h2>
 </div>
@@ -66,56 +158,83 @@
 <div class="section-wrapper">
     <div class="section-row">
         <div class="section-l va-c">
-            <h2>{{ web.core_experiences[0].title }}</h2>
-            <h3>{{ web.core_experiences[0].subtitle }}</h3>
-            <p>{{ web.core_experiences[0].description }}</p>
+            <h2>Visionary & Strategic Business Modeling</h2>
+            <h3>Looking ahead and using the power of foresight for future-readiness</h3>
+            <p>Focused on creating robust business models, I strategically bridge long-term goals with market shifts to
+drive impactful results. Using tools like OKRs and adaptable roadmaps, I break down high-level visions into
+clear, actionable steps, empowering teams to achieve meaningful progress. By fostering an environment where
+data-driven insights meet innovative thinking, I enable teams to explore new opportunities confidently.
+Prioritizing agility and collaboration, my approach ensures that we remain responsive to market changes and
+poised for growth. This strategy lays a resilient groundwork for our organization to thrive amid evolving
+industry landscapes.
+</p>
         </div>
         <div class="section-l-comp va-c">
-            <img class="section-img frame" src="{{ web.core_experiences[0].img }}">
+            <img class="section-img frame" src="assets/img/okr.webp">
         </div>
     </div>
     <div class="section-row">
         <div class="section-r-comp va-c">
-            <img class="section-img frame" src="{{ web.core_experiences[1].img }}">
+            <img class="section-img frame" src="assets/img/canva.png">
         </div>
         <div class="section-r va-c">
-            <h2>{{ web.core_experiences[1].title }}</h2>
-            <h3>{{ web.core_experiences[1].subtitle }}</h3>
-            <p>{{ web.core_experiences[1].description }}</p>
+            <h2>Innovative Approaches to Expand Growth</h2>
+            <h3>Analyzing data to create a sustainable way forward</h3>
+            <p>I’m passionate about using innovative strategies to discover and embrace growth opportunities that resonate
+with both market trends and our goals. By blending data-driven insights with creative problem-solving, I
+empower teams to reach their full potential and innovate with purpose. My approach highlights the importance
+of cross-functional collaboration and agile methods, allowing us to swiftly adapt to new challenges and
+seize opportunities. This not only fosters sustainable growth but also positions our organization to flourish
+in today’s dynamic landscape!
+</p>
         </div>
     </div>
     <div class="section-row">
         <div class="section-l va-c">
-            <h2>{{ web.core_experiences[2].title }}</h2>
-            <h3>{{ web.core_experiences[2].subtitle }}</h3>
-            <p>{{ web.core_experiences[2].description }}</p>
+            <h2>Transforming Data into Actionable Insights</h2>
+            <h3>Collaborating with stakeholders for better impact</h3>
+            <p>I transform complex datasets into clear insights using tools like SQL, BI platforms, and Easy BI, making
+data the foundation of our product decisions. By diving into the patterns and behaviors within the data,
+I reveal hidden opportunities and pinpoint exactly where our product can better serve users. Each
+insight—whether it’s a trend in user behavior or an efficiency gain—guides the team’s choices at every
+stage, from concept to continuous improvement. With data as our compass, our decisions are sharper, more
+aligned with what users truly need, and strategically in tune with our growth goals. This approach enables
+us not only to meet but exceed user expectations, building products that resonate, adapt, and drive lasting
+success for our organization.
+</p>
         </div>
         <div class="section-l-comp va-c">
-            <img class="section-img frame" src="{{ web.core_experiences[2].img }}">
+            <img class="section-img frame" src="assets/img/dashboard.webp">
         </div>
     </div>
 </div>
 
-{######################################################################################################################}
-{# Motto #}
-{######################################################################################################################}
+
+
+
 <div class="section-wrapper" style="background-image: url('assets/img/phone.jpg');">
     <div class="section-r-comp va-t">
     </div>
     <div class="section-r va-t">
-        <h2>{{ web.motto.title }}</h2>
-        <p>{{ web.motto.description }}</p>
-        <p class="ta-r">{{ web.motto.author }}</p>
+        <h2>Effective Communication, Infinite Solutions</h2>
+        <p>"Effective communication is the foundation of every successful project, and I believe it’s more than just 
+exchanging words—it's about connecting ideas, aligning visions, and empowering teams to collaborate seamlessly.
+With clear and open dialogue, challenges become opportunities for growth, and the road to solutions expands
+infinitely. Every project is unique, and I am dedicated to finding tailored solutions that foster efficiency and
+innovation, ensuring that together we build something impactful. My approach is grounded in listening,
+adaptability, and a commitment to seeing projects through with clarity and purpose."
+</p>
+        <p class="ta-r">Aisan</p>
     </div>
 </div>
 
-{######################################################################################################################}
-{# Vibes #}
-{######################################################################################################################}
 
-{######################################################################################################################}
-{# My Resume #}
-{######################################################################################################################}
+
+
+
+
+
+
 <div class="two-col-l">
     <h2>My Resume</h2>
 </div>
@@ -123,19 +242,19 @@
 <div class="two-col-r">
     <div class="ipad-wrapper">
         <img class="ipad-img" src="assets/img/ipad.png">
-        <embed class="ipad-content" src="assets/pdf/Aisan_Mojahedi_CV.pdf" type="application/pdf">
+        <embed class="ipad-content" src="assets/pdf/AisanMojahedi_Resume.pdf" type="application/pdf">
     </div>
 </div>
 
-{######################################################################################################################}
-{# Learning #}
-{######################################################################################################################}
 
 
-{######################################################################################################################}
-{# Footer #}
-{######################################################################################################################}
-{# TODO #}
+
+
+
+
+
+
+
 
 
 <script>
@@ -183,7 +302,7 @@
     }
 
     main.initScroll('header', 0.4, 0.8)
-    main.initCursor('subtitle', 3000, 100, 50, {{ web.subtitles|tojson|safe }})
+    main.initCursor('subtitle', 3000, 100, 50, ["Product Manager", "Dubai, UAE"])
 </script>
 </body>
 </html>
