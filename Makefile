@@ -1,5 +1,5 @@
-# values: default, tabby_strategy_intern
-TAILOR = default
+# values: default, tabby_strategy_intern, edenred, 6th_street
+TAILOR = 6th_street
 
 .PHONY: cv
 cv:

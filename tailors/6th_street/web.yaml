@@ -1,0 +1,65 @@
+web:
+  title: "{{ cv.name }}"
+  subtitles:
+    - Product Manager
+    - Dubai, UAE
+  features:
+    - Product Manager
+    - UI/UX designer
+    - Certified Scrum Master
+    - Studied Applied Mathematics & Computer Science
+    - Communicator
+    - Resident in Dubai
+    - Data-Driven Decision Maker
+    - Agile Project Manager
+    - Market Researcher
+    - Fluent in Turkish, Persian & English
+    - Result-Oriented
+    - Coffee Lover
+    - Visionary Leader
+    - Problem Solver
+    - Logical thinker
+  core_experiences:
+    - title: Visionary & Strategic Business Modeling
+      subtitle: Looking ahead and using the power of foresight for future-readiness
+      img: assets/img/okr.webp
+      description: |
+        Focused on creating robust business models, I strategically bridge long-term goals with market shifts to
+        drive impactful results. Using tools like OKRs and adaptable roadmaps, I break down high-level visions into
+        clear, actionable steps, empowering teams to achieve meaningful progress. By fostering an environment where
+        data-driven insights meet innovative thinking, I enable teams to explore new opportunities confidently.
+        Prioritizing agility and collaboration, my approach ensures that we remain responsive to market changes and
+        poised for growth. This strategy lays a resilient groundwork for our organization to thrive amid evolving
+        industry landscapes.
+    - title: Innovative Approaches to Expand Growth
+      subtitle: Analyzing data to create a sustainable way forward
+      img: assets/img/canva.png
+      description: |
+        I’m passionate about using innovative strategies to discover and embrace growth opportunities that resonate
+        with both market trends and our goals. By blending data-driven insights with creative problem-solving, I
+        empower teams to reach their full potential and innovate with purpose. My approach highlights the importance
+        of cross-functional collaboration and agile methods, allowing us to swiftly adapt to new challenges and
+        seize opportunities. This not only fosters sustainable growth but also positions our organization to flourish
+        in today’s dynamic landscape!
+    - title: Transforming Data into Actionable Insights
+      subtitle: Collaborating with stakeholders for better impact
+      img: assets/img/dashboard.webp
+      description: |
+        I transform complex datasets into clear insights using tools like SQL, BI platforms, and Easy BI, making
+        data the foundation of our product decisions. By diving into the patterns and behaviors within the data,
+        I reveal hidden opportunities and pinpoint exactly where our product can better serve users. Each
+        insight—whether it’s a trend in user behavior or an efficiency gain—guides the team’s choices at every
+        stage, from concept to continuous improvement. With data as our compass, our decisions are sharper, more
+        aligned with what users truly need, and strategically in tune with our growth goals. This approach enables
+        us not only to meet but exceed user expectations, building products that resonate, adapt, and drive lasting
+        success for our organization.
+  motto:
+    title: Effective Communication, Infinite Solutions
+    description: |
+      "Effective communication is the foundation of every successful project, and I believe it’s more than just 
+      exchanging words—it's about connecting ideas, aligning visions, and empowering teams to collaborate seamlessly.
+      With clear and open dialogue, challenges become opportunities for growth, and the road to solutions expands
+      infinitely. Every project is unique, and I am dedicated to finding tailored solutions that foster efficiency and
+      innovation, ensuring that together we build something impactful. My approach is grounded in listening,
+      adaptability, and a commitment to seeing projects through with clarity and purpose."
+    author: Aisan
