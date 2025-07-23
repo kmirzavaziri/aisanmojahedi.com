@@ -4,77 +4,93 @@ cv:
   email: aisanmojahedi@gmail.com
   phone: tel:+971-54-494-9297
   website: https://aisanmojahedi.com/
+  photo: profile_picture.jpg
   social_networks:
     - network: LinkedIn
       username: aisan_mojahedi
   sections:
     summary:
       - |
-        Certified Product Manager with 5+ years of experience in defining OKRs, product design, 
-        and leading diverse teams in fintech and e-commerce domain large organizations and startups, 
-        including co-founding a venture, provides unique insights into diverse environments. Agile Practitioner focused on optimizing
-        workflows and improving product delivery, driving notable gains in user engagement and reporting efficiency. Proficient in data analysis, 
-        and UI/UX to make DD decisions for timely, high-quality delivery.
+       With over 5 years of experience in product ownership within fintech and e-commerce, end-to-end product development and Agile methodologies drive value-driven solutions. Analytical expertise shapes data-driven decisions and strategic planning, defining OKRs and prioritizing backlogs for impactful outcomes. Automation streamlines manual processes, boosting efficiency. Optimizing sprints through JIRA and Scrum expertise enhances scalability. Proficiency in UI/UX, data analysis, and leading diverse teams crafts user-focused products. Committed to high-quality delivery, I maximize engagement and operational effectiveness in dynamic environments.
+    experiences:
+      - position: Product Manager
+        company: Asa - Stock brokerage (5M+ active users)
+        start_date: 2023
+        end_date: 2024
+        highlights:
+          - Led 6 Agile teams to deliver customer-facing data products, including dashboards for +5M users, reducing time-to-market by 20% quarterly through managing end-to-end product lifecycle and sprint planning.
+          - Optimized enterprise-wide Jira administration, standardizing workflows to cut development cycles by 50% in H1, achieving OKRs, boosting team morale with transparent processes, and saving operational costs of AED ~1.6M annually.
+          - Tailored Agile methodologies to team needs while ensuring alignment; implemented Jira EasyBI dashboards and automations to streamline sprints and enhance collaboration.
+          - Developed roadmaps for Database, BI, and Data Analysis teams, aligning features with business strategy and customer feedback, achieving 95% on-time releases and driving revenue growth of AED ~6.5M annually.
+          - Launched an internal product for Scrum Masters, POs, and PMs, to achieve improved dependency tracking and faster product delivery.
+          - Collaborated with the education team to develop technical lessons, establishing a consistent language among developers, reducing conflicts and boosting focus.
+          - Facilitated Agile ceremonies and strategy sessions, increasing sprint goal achievement by 25% through effective backlog management.
+      - position: Product Manager
+        company: Digikala - Largest e-commerce in MENA (41M+ active users)
+        start_date: 2022
+        end_date: 2023
+        highlights:
+          - Directed 10 agile squads across finance, website, marketing, and BI teams to deliver data products for 41M+ active users, ensuring cash flow stability and driving 472% credit purchase growth.
+          - Optimized BI workflow automation, reducing report generation time by 30% and saving operational costs of AED ~100K annually through streamlined data delivery.
+          - Enhanced Agile processes, optimizing JIRA workflows to boost OKR outcomes by 40% and improve sprint efficiency for scalable website performance.
+          - Spearheaded BNPL product rollout, managing JIRA backlogs to enable 182K users to access flexible payments, driving 566% receipt growth.
+          - Directed development of checkout, gift card, and UX features, leveraging A/B testing to achieve 90% user satisfaction and 2.5x conversion growth.
+          - Developed business model strategy with GoInnovation, onboarding 182K customers and enabling BNPL scalability through stakeholder collaboration.
+          - Implemented data-driven personalization features for an e-commerce platform, increasing average order value by 15% and enhancing retention for 41M+ active users.
+          - Boosted local and native sellers’ average monthly sales to ~72M Toman through targeted campaigns and optimizing listings for maximum visibility.
+
+          - '*[Digikala Annual Report 2022–2023](https://about.digikala.com/en/)*'
+      - position: Product Manager
+        company: Bitex - Online cryptocurrency exchange platform
+        start_date: 2022
+        end_date: 2022
+        highlights:
+          - Led Agile ceremonies for AI product development, ensuring seamless collaboration with cross-functional teams for timely feature delivery.
+          - Boosted user satisfaction by 30% through stakeholder collaboration and advanced customer journey mapping, improving user retention rates.
+          - Increased team efficiency by 20% using BigPicture in JIRA, streamlining sprint planning within 3 months.
+          - Defined product requirements via backlog refinements, achieving 100% on-time sprint deliveries and enhancing product maturity.
+      - position: Associate Product Manager
+        company: in-House - US-based startup similar to Glassdoor
+        start_date: 2021
+        end_date: 2022
+        highlights:
+          - Guided design consistency with a unified design system, accelerating development speed by 30% and enhancing team productivity.
+          - Elevated user engagement by 25% through optimized wireframes and A/B-tested prototypes, boosting platform adoption.
+          - Collaborated with UX teams to refine product features, achieving 90% stakeholder approval for design iterations.
+          - Supported Agile backlog management, reducing feature delivery time by 20% through effective prioritization.
+          - Reduced onboarding time for new developers by 25% through the implementation of a unified design system, streamlining the development process and improving team efficiency.
+          - Conducted A/B testing on key platform features, leading to a 10% increase in user adoption and contributing to overall platform growth.
+      - position: Co Founder
+        company: Avistopia - EdTech startup
+        start_date: 2019
+        end_date: 2021
+        highlights:
+          - Designed Avistopia’s website for 3.5K+ users, driving AED ~200K annually in revenue through intuitive UX and responsive design.
+          - Accelerated MVP release by 2 months using Scrum, enabling early go-live and enhancing user feedback cycles.
+          - Established design standards for EdTech products, reducing UI iteration cycles by 25% and improving developer alignment.
+          - Engaged stakeholders to validate prototypes, achieving 85% user satisfaction for digital learning solutions.
+          - Implemented design features that increased user retention by 15% through improved navigation and accessibility, enhancing the overall learning experience.
+          - Led user research initiatives that informed key design decisions, resulting in a 20% increase in user satisfaction scores for digital learning solutions.
     skills:
       - |
         **PM.** Business Model Design · Jira · Atlassian · Mentoring · Negotiating · 
-        Agile · Scrum · Kanban ·Strategic Planning · Solution Providing · A/B testing · Prototyping ·
-        Wireframing · Data Analysis · Data-Driven Decision Making · Market Research
+        Agile · Scrum · Kanban · Strategic Planning · Solution Providing · A/B Testing · Prototyping ·
+        Wireframing · Data Analysis · Data-Driven Decision Making · Market Research · Product Roadmapping · 
+        User Story Mapping · Customer Journey Optimization · Go-to-Market Strategy · KPI Definition
       - |
-        **Tech.** Git · SQL · Linux · Python · UI/UX · Google Analytics · XP · CI/CD Practices · Blockchain ·
-        AI/ML · Data Mining
-    experiences:
-      - position: Asa - Stock brokerage, 5+ million active users
-        company: Product Manager
-        start_date: 2023-08
-        end_date: 2024-07
-        highlights:
-          - "Led 30+ developers across 5 teams: Data Analysis, SQL, No-SQL, DB Monitoring, and BI."
-          - Improved OKR results by 33% through BI and DB team optimization.
-          - Addressed performance challenges using Eazy BI dashboards, leading to 66% cut in reporting time.
-          - Simplified workflows by integrating automation rules, decreasing manual workload by 20%.
-      - position: Digikala - Largest e-commerce in MENA, 41+ million active users
-        company: Product Manager
-        start_date: 2022-09
-        end_date: 2023-08
-        highlights:
-          - Managed 15+ developers across finance, payment marketing website, and BI teams, ensuring cash flow integrity.
-          - Automated report delivery with BI workflow automation, cutting report generation time by 30%.
-          - Improved agile processes through JIRA optimization, boosting OKR outcomes by 40%.
-          - Ensured product requirements met on time, using refinements on the backlog leading to maturity level ups.
-      - position: Bitex - Online Crypto Exchange Platform
-        company: Product Manager
-        start_date: 2022-07
-        end_date: 2022-09
-        highlights:
-          - Led Agile ceremonies and collaborated with cross-functional teams to plan and execute AI products.
-          - Enhanced user satisfaction by 30% via collaboration with stakeholders and advanced customer journey mapping.
-          - Increased team efficiency by 20% using BigPicture in JIRA within 3 months.
-      - position: in-House - US-based startup similar to Glassdoor
-        company: Associate Product Manager
-        start_date: 2021-08
-        end_date: 2022-07
-        highlights:
-          - Ensured consistency to design guidelines with a unified design system, accelerating development speed by 30%.
-          - Boosted user engagement by 25% through optimized wireframes and A/B-tested prototypes.
-      - position: Avistopia - EdTech startup
-        company: Co Founder
-        start_date: 2019-06
-        end_date: 2021-08
-        highlights:
-          - Accelerated MVP release by 2 months by adopting Scrum and Agile mindset, leading to an earlier go-live.
-          - Designed Avistopia's website with 3.5K+ users and \$50K+ in annual revenue, through learning and doing different areas such as coding, product design and management.
+        **Tech.** Git · SQL · Linux · Python · UI/UX · Google Analytics · XP · CI/CD Practices · Blockchain · AI/ML · Data Mining
     education:
       - institution: Shahid Beheshti University
         area: Computer Science
         degree: M. Sc.
-        start_date: 2022-09
-        end_date: 2024-09
+        start_date: 2022
+        end_date: 2024
       - institution: University of Tehran
         area: Mathematics
         degree: B. Sc.
-        start_date: 2017-09
-        end_date: 2022-02
+        start_date: 2017
+        end_date: 2022
+        description: Ranked #=368 globally and #1 in Iran (QS World University Rankings 2025)
     certification:
       - |
         [**PSM,** *Scrum.org*](https://www.credly.com/badges/f3411a9f-7714-4754-8edc-bb1a701e0572) ‌ ‌ ‌ · ‌ ‌ ‌
@@ -88,22 +104,22 @@ design:
     show_page_numbering: false
     show_last_updated_date: false
     size: a4
-    bottom_margin: 1.5cm
+    bottom_margin: 1.6cm
     left_margin: 1cm
     right_margin: 1cm
     top_margin: 1.5cm
   text:
-    font_size: 10pt
+    font_size: 9.4pt
     alignment: justified
-    leading: 10pt
+    leading: 9.8pt
   header:
     name_font_size: 20pt
+    photo_width: 2.5cm
   section_titles:
     vertical_space_above: 0.7cm
-    vertical_space_below: 0.5cm
+    vertical_space_below: 0.7cm
   entries:
     vertical_space_between_entries: 0.5cm
-
   highlights:
-    top_margin: 0.3cm
-    vertical_space_between_highlights: 0.3cm
+    top_margin: 0.4cm
+    vertical_space_between_highlights: 0.4cm

@@ -1,102 +1,69 @@
 cv:
   name: Aisan Mojahedi
-  location: Dubai, UAE
   email: aisanmojahedi@gmail.com
   phone: tel:+971-54-494-9297
-  website: https://aisanmojahedi.com/
+  location: Dubai, UAE
   social_networks:
     - network: LinkedIn
       username: aisan_mojahedi
   sections:
+    # ---
     summary:
       - |
-        Certified Product Specialist with over 5 years of experience in e-commerce and fintech, delivering data-driven product strategies and enhancing user experiences for platforms like Digikala. Skilled in market research, customer journey mapping, and cross-functional collaboration to drive product development from ideation to launch. Proven ability to optimize workflows, define OKRs, and improve product performance, with a focus on agile methodologies and actionable insights.
+        Growth Product Specialist skilled in data-driven strategies, A/B testing, and SQL for platforms like Digikala (41M+ users). Strong Math and CS background enables analytical insights for user funnel optimization. Proficient in market research and agile, delivering scalable growth. I hold a family visa.
+    # ---
     skills:
       - |
-        **Product Management:** Product Strategy · Market Research · Customer Insights · OKR Definition · A/B Testing · Agile · Scrum · Kanban · JIRA · Prototyping · Wireframing · Stakeholder Collaboration
-      - |
-        **Technical:** SQL · Python · Google Analytics · UI/UX (Figma) · Data Analysis · BI Tools · Git · CI/CD Basics
+        **Skills:** Product Strategy · Market Research · Customer Insights · OKR Definition · A/B Testing · User Funnel Optimization · Agile · Scrum · JIRA · Stakeholder Collaboration · SQL · Python · Google Analytics · Quantitative Analysis Tools · Data Analysis · BI Tools
+    # ---
     experiences:
-      - position: Asa - Stock brokerage, 5+ million active users
-        company: Product Manager (Data-Driven)
-        start_date: 2023-08
-        end_date: 2024-07
+      # ---
+      - position: Product Manager
+        company: "Asa - Stock brokerage (5M+ active users)"
+        start_date: 2023
+        end_date: 2024
         highlights:
-          - Directed 30+ developers across 5 teams (Data Analysis, SQL, No-SQL, Monitoring, BI) to deliver data-centric product features.
-          - Boosted OKR performance by 33% through optimizing BI and database workflows, enhancing data accessibility.
-          - Cut reporting time by 66% with Eazy BI dashboards, enabling faster, data-informed decisions.
-          - Streamlined product delivery by automating workflows, reducing manual effort by 20%.
-      - position: Digikala - Largest e-commerce in MENA, 41+ million active users
-        company: Product Manager (E-commerce)
-        start_date: 2022-09
-        end_date: 2023-08
+          - "**Data Optimization**"
+          - Optimized Eazy BI dashboards using SQL and predictive analytics, increasing OKR attainment by 33%.
+          - Simplified agile pods with analytical insights, accelerating data delivery by 15% for platform scalability.
+          # ---
+          - "**Stakeholder Management**"
+          - Coordinated with stakeholders to align priorities, enhancing OKR attainment by 20% through collaboration.
+      # ---
+      - position: Product Manager
+        company: "Digikala - Largest e-commerce in MENA (41M+ active users)"
+        start_date: 2022
+        end_date: 2023
         highlights:
-          - Led 15+ developers across finance, payment marketing, and BI teams to integrate product features for a seamless e-commerce experience.
-          - Conducted market research and customer journey analysis to shape product requirements, ensuring timely feature launches.
-          - Automated BI reporting workflows, reducing generation time by 30% and improving accuracy for stakeholders.
-          - Enhanced agile delivery with JIRA refinements, increasing OKR success by 40%.
-      - position: Bitex - Online Crypto Exchange Platform
-        company: Product Manager (AI & User Experience)
-        start_date: 2022-07
-        end_date: 2022-09
+          - "**Business Model Design**"
+          - Design Business model with GoInnovation, driving 472% purchase growth, 182K customers for website scalability.
+          - Prioritized BI automation for website, enabling 566% BNPL receipts growth with daily delivery.
+          # ---
+          - "**Backlog Management**"
+          - Oversaw JIRA backlog for BNPL rollout, enabling 182K users to access flexible payments.
+          # ---
+          - "**Roadmapping**"
+          - Championed checkout, gift card, UX features, securing 81.3% satisfaction, 2.59x growth via improved conversions.
+          - "*[Digikala Annual Report 2022–2023](https://about.digikala.com)*"
+      # ---
+      - position: Associate Product Manager
+        company: "In-House - US-based startup similar to Glassdoor"
+        start_date: 2021
+        end_date: 2022
         highlights:
-          - Collaborated with cross-functional teams to launch AI-driven product features, improving platform functionality.
-          - Increased user satisfaction by 30% through detailed customer journey mapping and stakeholder alignment.
-          - Improved team productivity by 20% with BigPicture in JIRA for clearer project tracking.
-      - position: in-House - US-based startup similar to Glassdoor
-        company: Associate Product Manager (UI/UX & Growth)
-        start_date: 2021-08
-        end_date: 2022-07
-        highlights:
-          - Accelerated feature delivery by 30% with a unified design system, enhancing product consistency.
-          - Boosted user engagement by 25% through wireframing and A/B-tested prototypes focused on user needs.
-      - position: Avistopia - EdTech startup
-        company: Co-Founder
-        start_date: 2019-06
-        end_date: 2021-08
-        highlights:
-          - Spearheaded product strategy and UI/UX design, launching a website that gained 3.5K+ users and \$50K+ in revenue.
-          - Fast-tracked MVP launch by 2 months using Scrum, driving early user adoption.
+          # ---
+          - "**UX Design**"
+          - Created modular UI kit for review pages with development teams, reducing delivery time by 20%.
+          - Tested submission flows, increasing review submissions by 15% through optimized call-to-actions.
+          - Refined navigation menus using feedback, enhancing key area engagement by 12%.
+    # ---
     education:
-      - institution: Shahid Beheshti University
-        area: Computer Science
-        degree: M. Sc.
-        start_date: 2022-09
-        end_date: 2024-09
-      - institution: University of Tehran
+      - institution: "University of Tehran"
         area: Mathematics
         degree: B. Sc.
-        start_date: 2017-09
-        end_date: 2022-02
+        start_date: 2017
+        end_date: 2022
+    # ---
     certification:
       - |
-        [**PSM,** *Scrum.org*](https://www.credly.com/badges/f3411a9f-7714-4754-8edc-bb1a701e0572) ‌ ‌ ‌ · ‌ ‌ ‌
-        [**Product Analytics,** *Pendo.io*](https://www.credly.com/badges/efbcd557-8868-48b2-8c95-84132e34520e) ‌ ‌ ‌ · ‌ ‌ ‌
-        [**SQL,** *Datacamp*](https://www.datacamp.com/completed/statement-of-accomplishment/course/cb1e205a30bbfdf7aad6f862f95578baae275c4e) ‌ ‌ ‌ · ‌ ‌ ‌
-        [**Product Strategy,** *Product School*](https://productschool.teachable.com/courses/2136086/certificate)
-
-design:
-  theme: classic
-  page:
-    show_page_numbering: false
-    show_last_updated_date: false
-    size: a4
-    bottom_margin: 1.5cm
-    left_margin: 1cm
-    right_margin: 1cm
-    top_margin: 1.5cm
-  text:
-    font_size: 10pt
-    alignment: justified
-    leading: 10pt
-  header:
-    name_font_size: 20pt
-  section_titles:
-    vertical_space_above: 0.7cm
-    vertical_space_below: 0.5cm
-  entries:
-    vertical_space_between_entries: 0.5cm
-
-  highlights:
-    top_margin: 0.3cm
-    vertical_space_between_highlights: 0.3cm
+        PSM (Scrum.org) · Product Analytics (Pendo.io) · SQL (Datacamp) · Product Strategy (Product School) · PSPO (Scrum.org)
