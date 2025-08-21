@@ -11,70 +11,58 @@ cv:
   sections:
     summary:
       - |
-       With over 5 years of experience in product ownership within fintech and e-commerce, end-to-end product development and Agile methodologies drive value-driven solutions. Analytical expertise shapes data-driven decisions and strategic planning, defining OKRs and prioritizing backlogs for impactful outcomes. Automation streamlines manual processes, boosting efficiency. Optimizing sprints through JIRA and Scrum expertise enhances scalability. Proficiency in UI/UX, data analysis, and leading diverse teams crafts user-focused products. Committed to high-quality delivery, I maximize engagement and operational effectiveness in dynamic environments.
+       Over 5 years of product management experience has been gained across fintech, e-commerce, and emerging technologies, with an emphasis on aligning business objectives and user needs through data-informed decisions. Agile and Scrum practices have been applied to streamline delivery and strengthen collaboration, supported by expertise in Jira administration, SQL, and UI/UX design. Roadmaps have been shaped from strategy through execution, balancing analytical rigor with user experience to deliver scalable products. A consistent focus has been placed on measurable outcomes (e.g., 50% cycle-time reduction), constructive teamwork, and high-quality delivery in diverse environments.
     experiences:
       - position: Product Manager
         company: Asa - Stock brokerage (5M+ active users)
         start_date: 2023
         end_date: 2024
         highlights:
-          - Led 6 Agile teams to deliver customer-facing data products, including dashboards for +5M users, reducing time-to-market by 20% quarterly through managing end-to-end product lifecycle and sprint planning.
-          - Optimized enterprise-wide Jira administration, standardizing workflows to cut development cycles by 50% in H1, achieving OKRs, boosting team morale with transparent processes, and saving operational costs of AED ~1.6M annually.
-          - Tailored Agile methodologies to team needs while ensuring alignment; implemented Jira EasyBI dashboards and automations to streamline sprints and enhance collaboration.
-          - Developed roadmaps for Database, BI, and Data Analysis teams, aligning features with business strategy and customer feedback, achieving 95% on-time releases and driving revenue growth of AED ~6.5M annually.
-          - Launched an internal product for Scrum Masters, POs, and PMs, to achieve improved dependency tracking and faster product delivery.
-          - Collaborated with the education team to develop technical lessons, establishing a consistent language among developers, reducing conflicts and boosting focus.
-          - Facilitated Agile ceremonies and strategy sessions, increasing sprint goal achievement by 25% through effective backlog management.
+          - Led six Agile teams to ship customer-facing data products (dashboards for 5M+ users), cutting time-to-market ≈20% QoQ through end-to-end planning and delivery.
+          - Standardized Jira workflows and reporting, delivering a one-time ≈50% reduction in development cycle time and ≈AED 1.6M cost savings; improved OKR attainment via transparent processes.
+          - Built eazyBI dashboards and Jira automations to streamline ceremonies and cross-team visibility, enhancing sprint predictability and collaboration.
+          - Owned roadmaps for Database, BI, and Data Analysis teams; aligned features with company objectives and user feedback, achieving 95% on-time releases and ≈AED 6.5M/year revenue impact.
+          - Launched an internal delivery tool for POs, and PMs to track dependencies and accelerate product delivery.
+          - Partnered with the education team to create technical lessons, reducing conflicts and sharpening engineering focus.
+          - Facilitated backlog grooming, planning, and reviews; raised sprint-goal attainment ≈25%.
       - position: Product Manager
         company: Digikala - Largest e-commerce in MENA (41M+ active users)
         start_date: 2022
         end_date: 2023
         highlights:
-          - Directed 10 agile squads across finance, website, marketing, and BI teams to deliver data products for 41M+ active users, ensuring cash flow stability and driving 472% credit purchase growth.
-          - Optimized BI workflow automation, reducing report generation time by 30% and saving operational costs of AED ~100K annually through streamlined data delivery.
-          - Enhanced Agile processes, optimizing JIRA workflows to boost OKR outcomes by 40% and improve sprint efficiency for scalable website performance.
-          - Spearheaded BNPL product rollout, managing JIRA backlogs to enable 182K users to access flexible payments, driving 566% receipt growth.
-          - Directed development of checkout, gift card, and UX features, leveraging A/B testing to achieve 90% user satisfaction and 2.5x conversion growth.
-          - Developed business model strategy with GoInnovation, onboarding 182K customers and enabling BNPL scalability through stakeholder collaboration.
-          - Implemented data-driven personalization features for an e-commerce platform, increasing average order value by 15% and enhancing retention for 41M+ active users.
-          - Boosted local and native sellers’ average monthly sales to ~72M Toman through targeted campaigns and optimizing listings for maximum visibility.
-
+          - Directed 10 squads (finance, website, marketing, BI) to deliver data products for 41M+ users, stabilizing cash flow and driving 472% growth in credit purchases.
+          - Automated BI workflows, cutting report generation time ≈30% and saving ≈AED 100K/year.
+          - Optimized Jira processes and team rituals, lifting OKR outcomes ≈40% and increasing sprint throughput.
+          - Managed Jira backlogs enabling 182K users to access installment payments; scaled BNPL transactions ≈566%.
+          - Delivered checkout and gift card; A/B tests lifted checkout conversion ≈2.5× and customer satisfaction to ≈90%.
+          - Developed the BNPL business model with GoInnovation, supporting scale-up and onboarding 182K customers.
+          - Shipped personalization features that raised average order value ≈15% and improved retention.
+          - Boosted local sellers’ average monthly sales to ≈72M Toman via campaign design and listing optimization.
           - '*[Digikala Annual Report 2022–2023](https://about.digikala.com/en/)*'
-      - position: Product Manager
-        company: Bitex - Online cryptocurrency exchange platform
-        start_date: 2022
-        end_date: 2022
-        highlights:
-          - Led Agile ceremonies for AI product development, ensuring seamless collaboration with cross-functional teams for timely feature delivery.
-          - Boosted user satisfaction by 30% through stakeholder collaboration and advanced customer journey mapping, improving user retention rates.
-          - Increased team efficiency by 20% using BigPicture in JIRA, streamlining sprint planning within 3 months.
-          - Defined product requirements via backlog refinements, achieving 100% on-time sprint deliveries and enhancing product maturity.
       - position: Associate Product Manager
         company: in-House - US-based startup similar to Glassdoor
         start_date: 2021
         end_date: 2022
         highlights:
-          - Guided design consistency with a unified design system, accelerating development speed by 30% and enhancing team productivity.
-          - Elevated user engagement by 25% through optimized wireframes and A/B-tested prototypes, boosting platform adoption.
-          - Collaborated with UX teams to refine product features, achieving 90% stakeholder approval for design iterations.
-          - Supported Agile backlog management, reducing feature delivery time by 20% through effective prioritization.
-          - Reduced onboarding time for new developers by 25% through the implementation of a unified design system, streamlining the development process and improving team efficiency.
-          - Conducted A/B testing on key platform features, leading to a 10% increase in user adoption and contributing to overall platform growth.
-      - position: Co Founder
+          - Established a unified design system, accelerating development ≈30% and reducing onboarding time ≈25%.
+          - Raised engagement ≈25% by optimizing flows and prototypes validated via A/B testing.
+          - Partnered with UX to refine features, securing ≈90% stakeholder approval on design iterations.
+          - Prioritized backlog items and coordinated feature planning, shortening lead time ≈20%.
+      - position: Co-Founder
         company: Avistopia - EdTech startup
         start_date: 2019
         end_date: 2021
         highlights:
-          - Designed Avistopia’s website for 3.5K+ users, driving AED ~200K annually in revenue through intuitive UX and responsive design.
-          - Accelerated MVP release by 2 months using Scrum, enabling early go-live and enhancing user feedback cycles.
-          - Established design standards for EdTech products, reducing UI iteration cycles by 25% and improving developer alignment.
-          - Engaged stakeholders to validate prototypes, achieving 85% user satisfaction for digital learning solutions.
-          - Implemented design features that increased user retention by 15% through improved navigation and accessibility, enhancing the overall learning experience.
-          - Led user research initiatives that informed key design decisions, resulting in a 20% increase in user satisfaction scores for digital learning solutions.
+          - Designed and launched the website for 3.5K+ users; generated ≈AED 200K/year through clear IA and responsive UX.
+          - Released the MVP two months early by applying Scrum, accelerating feedback cycles.
+          - Standardized UI patterns for EdTech products, reducing iteration cycles ≈25% and improving engineering alignment.
+          - Validated prototypes with stakeholders through iterative testing, reaching ≈85% user satisfaction.
+          - Enhanced navigation and accessibility features, increasing retention ≈15% across active learners.
+          - Led user research that informed key design decisions, raising satisfaction scores ≈20%.
     skills:
       - |
         **PM.** Business Model Design · Jira · Atlassian · Mentoring · Negotiating · 
-        Agile · Scrum · Kanban · Strategic Planning · Solution Providing · A/B Testing · Prototyping ·
+        Agile · Scrum · Strategic Planning · Solution Providing · A/B Testing · Prototyping ·
         Wireframing · Data Analysis · Data-Driven Decision Making · Market Research · Product Roadmapping · 
         User Story Mapping · Customer Journey Optimization · Go-to-Market Strategy · KPI Definition
       - |
@@ -93,33 +81,39 @@ cv:
         description: Ranked #=368 globally and #1 in Iran (QS World University Rankings 2025)
     certification:
       - |
-        [**PSM,** *Scrum.org*](https://www.credly.com/badges/f3411a9f-7714-4754-8edc-bb1a701e0572) ‌ ‌ ‌ · ‌ ‌ ‌
-        [**Product Analytics,** *Pendo.io*](https://www.credly.com/badges/efbcd557-8868-48b2-8c95-84132e34520e) ‌ ‌ ‌ · ‌ ‌ ‌
-        [**SQL,** *Datacamp*](https://www.datacamp.com/completed/statement-of-accomplishment/course/cb1e205a30bbfdf7aad6f862f95578baae275c4e) ‌ ‌ ‌ · ‌ ‌ ‌
-        [**Product Strategy,** *Product School*](https://productschool.teachable.com/courses/2136086/certificate)
-
+        [**PSPO™,** *Scrum.org*](https://www.credly.com/badges/bdf24621-3990-4599-93d4-308e346c3baa/linked_in_profile) ‌ ‌ ‌ ‌ ‌ · ‌ ‌ ‌ ‌ ‌
+        [**CSPO®,** *Scrum Alliance*](https://bcert.me/bc/html/show-badge.html?b=iwooesne) ‌ ‌ ‌ ‌ ‌ · ‌ ‌ ‌ ‌ ‌ 
+        [**PSM™,** *Scrum.org*](https://www.credly.com/badges/f3411a9f-7714-4754-8edc-bb1a701e0572)  ‌ ‌ ‌ ‌ ‌ · ‌ ‌ ‌ ‌ ‌
+        [**PSC™,** *Product School*](https://productschool.teachable.com/courses/2136086/certificate)
+      - |
+        [**Product Analytics,** *Pendo.io*](https://www.credly.com/badges/efbcd557-8868-48b2-8c95-84132e34520e) ‌ ‌ ‌ ‌ ‌ · ‌ ‌ ‌ ‌ ‌ 
+        [**SQL,** *Datacamp*](https://www.datacamp.com/completed/statement-of-accomplishment/course/cb1e205a30bbfdf7aad6f862f95578baae275c4e) ‌ ‌ ‌ ‌ ‌ · ‌ ‌ ‌ ‌ ‌
+        [**Python,** *Datacamp*](https://www.datacamp.com/completed/statement-of-accomplishment/course/82d53c52daea53d9ba77b96025812830517b6719) ‌ ‌ ‌ ‌ ‌ · ‌ ‌ ‌ ‌ ‌
+        [**Tableau,** *Datacamp*](#)
 design:
   theme: classic
   page:
     show_page_numbering: false
     show_last_updated_date: false
     size: a4
-    bottom_margin: 1.6cm
-    left_margin: 1cm
-    right_margin: 1cm
-    top_margin: 1.5cm
+#    bottom_margin: 1.6cm
+    left_margin: 1.1cm
+    right_margin: 1.1cm
+#    top_margin: 1.5cm
   text:
-    font_size: 9.4pt
+#    font_size: 10pt
     alignment: justified
-    leading: 9.8pt
+    leading: 11pt
   header:
-    name_font_size: 20pt
-    photo_width: 2.5cm
+    name_font_size: 18pt
+    photo_width: 2cm
+    horizontal_space_between_connections: 0.3cm
+    vertical_space_between_name_and_connections: 0.5cm
   section_titles:
-    vertical_space_above: 0.7cm
-    vertical_space_below: 0.7cm
+    vertical_space_above: 1.3cm
+    vertical_space_below: 0.6cm
   entries:
-    vertical_space_between_entries: 0.5cm
+    vertical_space_between_entries: 0.8cm
   highlights:
-    top_margin: 0.4cm
-    vertical_space_between_highlights: 0.4cm
+    top_margin: 0.6cm
+    vertical_space_between_highlights: 0.6cm
