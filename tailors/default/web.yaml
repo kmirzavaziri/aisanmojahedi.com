@@ -1,5 +1,7 @@
 web:
   title: "{{ cv.name }}"
+  summary: |
+    Certified Agile Product Manager with over 5 years of experience driving product innovation across FinTech, e-commerce, AI, and blockchain. Have successfully led cross-functional teams in implementing agile methodologies to enhance efficiency and accelerate growth, drawing on my solid technical foundation in Applied Mathematics and hands-on experience in programming with Python and SQL. My work at Digikala, the MENA region’s largest e-commerce platform, involved orchestrating product roadmaps and optimizing processes for a user base of over 41 million. With a deep understanding of distributed systems architectures, I can effectively bridge the gap between technical execution and strategic vision. Currently enhancing my skills, I combine my technical acumen with business insight to create impactful products. I am eager to bring my passion for innovation and my technical expertise to a forward-thinking team in Dubai.
   subtitles:
     - Product Manager
     - Dubai, UAE

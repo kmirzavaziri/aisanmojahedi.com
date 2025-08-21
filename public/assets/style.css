@@ -35,6 +35,10 @@ p {
     padding: 50px 10%;
 }
 
+.middle-image {
+    height: 50vh;
+}
+
 .va-t {
     vertical-align: top;
 }
