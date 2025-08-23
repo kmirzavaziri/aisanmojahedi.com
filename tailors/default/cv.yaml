@@ -21,10 +21,9 @@ cv:
           - Led six Agile teams to ship customer-facing data products (dashboards for 5M+ users), cutting time-to-market ≈20% QoQ through end-to-end planning and delivery.
           - Standardized Jira workflows and reporting, delivering a one-time ≈50% reduction in development cycle time and ≈AED 1.6M cost savings; improved OKR attainment via transparent processes.
           - Built eazyBI dashboards and Jira automations to streamline ceremonies and cross-team visibility, enhancing sprint predictability and collaboration.
-          - Owned roadmaps for Database, BI, and Data Analysis teams; aligned features with company objectives and user feedback, achieving 95% on-time releases and ≈AED 6.5M/year revenue impact.
-          - Launched an internal delivery tool for POs, and PMs to track dependencies and accelerate product delivery.
+          - Designed Business Models for Database, BI, and Data Analysis teams; aligned features with company objectives and user feedback, achieving 95% on-time releases and ≈AED 6.5M/year revenue impact.
           - Partnered with the education team to create technical lessons, reducing conflicts and sharpening engineering focus.
-          - Facilitated backlog grooming, planning, and reviews; raised sprint-goal attainment ≈25%.
+          - Facilitated agile PODs and scrum teams backlog grooming, planning, and reviews; raised sprint-goal attainment ≈25%.
       - position: Product Manager
         company: Digikala - Largest e-commerce in MENA (41M+ active users)
         start_date: 2022
@@ -33,14 +32,12 @@ cv:
           - Directed 10 squads (finance, website, marketing, BI) to deliver data products for 41M+ users, stabilizing cash flow and driving 472% growth in credit purchases.
           - Automated BI workflows, cutting report generation time ≈30% and saving ≈AED 100K/year.
           - Optimized Jira processes and team rituals, lifting OKR outcomes ≈40% and increasing sprint throughput.
-          - Managed Jira backlogs enabling 182K users to access installment payments; scaled BNPL transactions ≈566%.
+          - Managed Product backlogs enabling 182K users to access installment payments; scaled BNPL transactions ≈566%.
           - Delivered checkout and gift card; A/B tests lifted checkout conversion ≈2.5× and customer satisfaction to ≈90%.
           - Developed the BNPL business model with GoInnovation, supporting scale-up and onboarding 182K customers.
-          - Shipped personalization features that raised average order value ≈15% and improved retention.
-          - Boosted local sellers’ average monthly sales to ≈72M Toman via campaign design and listing optimization.
           - '*[Digikala Annual Report 2022–2023](https://about.digikala.com/en/)*'
       - position: Associate Product Manager
-        company: in-House - US-based Glassdoor alternative
+        company: In-House - US-based Glassdoor alternative
         start_date: 2021
         end_date: 2022
         highlights:
@@ -53,12 +50,12 @@ cv:
         start_date: 2019
         end_date: 2021
         highlights:
-          - Designed and launched the website for 3.5K+ users; generated ≈AED 200K/year through clear IA and responsive UX.
+          - Designed and launched the website for 3.5K+ users; generated ≈AED 200K/year through responsive UX.
           - Released the MVP two months early by applying Scrum, accelerating feedback cycles.
           - Standardized UI patterns for EdTech products, reducing iteration cycles ≈25% and improving engineering alignment.
           - Validated prototypes with stakeholders through iterative testing, reaching ≈85% user satisfaction.
           - Enhanced navigation and accessibility features, increasing retention ≈15% across active learners.
-          - Led user research that informed key design decisions, raising satisfaction scores ≈20%.
+
     skills:
       - |
         **PM.** Business Model Design · Jira · Atlassian · Mentoring · Negotiating · 
@@ -67,6 +64,9 @@ cv:
         User Story Mapping · Customer Journey Optimization · Go-to-Market Strategy · KPI Definition
       - |
         **Tech.** Git · SQL · Linux · Python · UI/UX · Google Analytics · XP · CI/CD Practices · Blockchain · AI/ML · Data Mining
+      - |
+        **Languages.** Persian · English · Turkish · Arabic 
+
     education:
       - institution: Shahid Beheshti University
         area: Computer Science
@@ -78,10 +78,10 @@ cv:
         degree: B. Sc.
         start_date: 2017
         end_date: 2022
-        description: Ranked #=368 globally and #1 in Iran (QS World University Rankings 2025)
+        description: ~#1st ranked in Iran & ~#322 globally in the 2026
     certification:
       - |
-        [**PSPO™,** *Scrum.org*](https://www.credly.com/badges/bdf24621-3990-4599-93d4-308e346c3baa/linked_in_profile) ‌ ‌ ‌ ‌ ‌ · ‌ ‌ ‌ ‌ ‌
+        [**PSPO™,** *Scrum.org*](https://www.credly.com/badges/bdf24621-3990-4599-93d4-308e346c3baa/linked_in_profile)  ‌‌ ‌ ‌ ‌ · ‌ ‌ ‌ ‌ ‌
         [**CSPO®,** *Scrum Alliance*](https://bcert.me/bc/html/show-badge.html?b=iwooesne) ‌ ‌ ‌ ‌ ‌ · ‌ ‌ ‌ ‌ ‌ 
         [**PSM™,** *Scrum.org*](https://www.credly.com/badges/f3411a9f-7714-4754-8edc-bb1a701e0572)  ‌ ‌ ‌ ‌ ‌ · ‌ ‌ ‌ ‌ ‌
         [**PSC™,** *Product School*](https://productschool.teachable.com/courses/2136086/certificate)
@@ -110,8 +110,8 @@ design:
     horizontal_space_between_connections: 0.3cm
     vertical_space_between_name_and_connections: 0.5cm
   section_titles:
-    vertical_space_above: 1.3cm
-    vertical_space_below: 0.6cm
+    vertical_space_above: 1.6cm
+    vertical_space_below: 0.8cm
   entries:
     vertical_space_between_entries: 0.8cm
   highlights:
